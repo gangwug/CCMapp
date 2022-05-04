@@ -12,7 +12,7 @@ for (ii in 1:length(packageV)) {
 ###load the source code
 source("CCMheatmap.R")
 ###The file size limit is 100MB.
-options(shiny.maxRequestSize = 100*1024^2, stringsAsFactors = FALSE)
+options(shiny.maxRequestSize = 300*1024^2, stringsAsFactors = FALSE)
 ###load the data
 exampleD = readRDS("dataFormat.rds")
 ###set a flag for 'Run' button
