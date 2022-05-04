@@ -24,7 +24,7 @@ runApp("CCMapp")
 There is an input example data and bench matrix file ('exampleData.csv' and 'benchMatrix.csv') in this folder. 
 
 ## For more information about the clock correlation matrix
-1. Wu G, Ruben MD, Schmidt RE, Francey LJ, Smith DF, Anafi RC, Hughey JJ, Tasseff R, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018, 115(48):12313-12318.![image](https://user-images.githubusercontent.com/10411705/166615646-f9318863-324d-409b-96e0-7e38b9f0b4a3.png)
+1. Wu G, Ruben MD, Schmidt RE, Francey LJ, Smith DF, Anafi RC, Hughey JJ, Tasseff R, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018, 115(48):12313-12318.
 2. Wu G, Ruben MD, Francey LJ, Smith DF, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, A population-based gene expression signature of molecular clock phase from a single epidermal sample. Genome Med. 2020. 12(1):73.
 
 ## For more information
