@@ -46,7 +46,7 @@ CCMheatmap <- function(inputD, benchD, gorder, mname = "CCM", mnameTextSize = 10
     labs(x="", y="", title = mname, fill = legendTitle) +
     scale_x_discrete(breaks=as.character(length(gorder):1),labels=gorder) +
     scale_y_discrete(breaks=gorder,labels=gorder) +
-    scale_fill_gradient2(limits = c(-1, 1), low = "blue", mid="white", high = "red", midpoint=0, space="Lab") +
+    scale_fill_gradient2(limits = c(-1.03, 1.03), low = "blue", mid="white", high = "red", midpoint=0, space="Lab") +
     theme(axis.line = element_blank(),
           axis.text=element_blank(),
           legend.title = element_text(size = legendTitleSize),
