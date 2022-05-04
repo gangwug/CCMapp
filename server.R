@@ -14,7 +14,7 @@ source("CCMheatmap.R")
 ###The file size limit is 100MB.
 options(shiny.maxRequestSize = 100*1024^2, stringsAsFactors = FALSE)
 ###load the data
-exampleD = readRDS("SkinPhaserFormat.rds")
+exampleD = readRDS("dataFormat.rds")
 ###set a flag for 'Run' button
 runflag <- 0
 ###uploading file
