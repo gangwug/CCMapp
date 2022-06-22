@@ -27,5 +27,5 @@ There is an input example data and bench matrix file ('exampleData.csv' and 'ben
 1. Wu G, Ruben MD, Schmidt RE, Francey LJ, Smith DF, Anafi RC, Hughey JJ, Tasseff R, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018, 115(48):12313-12318.
 2. Wu G, Ruben MD, Francey LJ, Smith DF, Sherrill JD, Oblong JE, Mills KJ, Hogenesch JB, A population-based gene expression signature of molecular clock phase from a single epidermal sample. Genome Med. 2020. 12(1):73.
 
-## For more information
+## Contact information
 wggucas@gmail.com
